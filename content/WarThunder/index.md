@@ -1,8 +1,4 @@
 ---
-title: Это индех
+title: War Thunder
 ---
-Проверка
-
-![[attachments/Pasted image 20240923004017.png]]
-
-![[attachments/Pasted image 20240923100235.png]]
+Этот раздел посвящён всему что касается игры: War Thunder
